@@ -10,7 +10,7 @@ class HelloWorld {
 
         if (hour+5 <= 24)
         {
-            Console.WriteLine((hour+5) + "." + timesplit[1] + "." + timesplit[2]);
+            Console.WriteLine(hour+5 + "." + timesplit[1] + "." + timesplit[2]);
         }
         else
         {
